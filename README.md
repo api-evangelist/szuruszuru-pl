@@ -72,48 +72,44 @@ szuruszuru-pl is a company surfaced via the API Evangelist harvest backlog (sour
 
 Everything profiled for szuruszuru-pl is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/szuruszuru-pl/](https://apis.io/providers/szuruszuru-pl/)** — or go straight to one of the APIs or properties below.
 
-### APIs (1)
-
-- [szuruszuru-pl API](https://apis.io/apis/szuruszuru-pl/szuruszuru-pl-api/) — API discovered via MCP endpoint but no machine-readable contract found.
-
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-#### Security (1)
+#### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
 - [szuruszuru-pl Domain Security](https://apis.io/security/szuruszuru-pl/szuruszuru-pl-domain-security/)
+- [szuruszuru-pl Vulnerability Disclosure](https://apis.io/security/szuruszuru-pl/szuruszuru-pl-vulnerability-disclosure/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://szuruszuru.pl/)
-- [Blog](https://szuruszuru.pl/blog/)
 
 ## API Evangelist rating
 
-**Kin Score 2.9** — minimal · rubric 0.29.0 · scored 2026-11-26
+**Kin Score 3.4** — minimal · rubric 0.28.0 · scored 2026-11-26
 
 | Facet | Score |
 |---|---|
-| Discoverability | 46.4 |
+| Discoverability | 26.8 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 0.0 |
-| Developer ergonomics | 2.4 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 0.0 |
 | Access clarity | 0.0 |
 
-**Agent readiness 3.0** — human-only
+**Agent readiness 0.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -132,11 +128,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
-| Onboarding Descriptor | — |
-| Dns Aid Index | na |
-| Markdown Negotiation | na |
 
-**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/szuruszuru-pl/](https://apis.io/providers/szuruszuru-pl/).
 
